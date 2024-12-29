@@ -1,0 +1,1 @@
+# Coq-in-a-hurry
